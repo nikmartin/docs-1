@@ -30,8 +30,7 @@ Read more about Transactional Email in the [SendGrid Guide]({{root_url}}/glossar
 ## 	How to send a Transactional Email
 
 Once your SendGrid account is set up, you have choices on how to send the emails to your users.
-
-1. Send [via SMTP]({{root_url}}/sending-email/getting-started-smtp/)
+1. Send [via SMTP]({{root_url}}/API_Reference/SMTP_API/getting_started_smtp.html)
 2. Send [via API]({{root_url}}/api-reference)
 3. Send via other options like [Open Source]({{root_url}}/sending-email/libraries/) and [plugins]({{root_url}}/sending-email/wordpress-plugin/)
 
